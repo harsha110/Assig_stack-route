@@ -1,0 +1,21 @@
+body {
+	background-color: lightgrey;
+}
+
+#style1 {
+	border: 2px solid white;
+	text-align: center;
+}
+#style2 {
+	border: 2px solid white;
+	text-align: center;
+}
+#whole {
+	margin-left:290px;
+	width:500px;
+	
+}
+
+#quote{
+	
+}
